@@ -13,10 +13,10 @@ basic recommendation engine
 
 Method used
 
-Exploratory analysis
-Collaborative filtering
-*Neighbourhood formation using Cosine Similarity formula
-*User/Item based recommendation
+1. Exploratory analysis
+2. Collaborative filtering
+   * Neighbourhood formation using Cosine Similarity formula
+   * User/Item based recommendation
 
 
 Technology
