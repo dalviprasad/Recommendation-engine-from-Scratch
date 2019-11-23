@@ -15,8 +15,8 @@ Method used
 
 Exploratory analysis
 Collaborative filtering
--Neighbourhood formation using Cosine Similarity formula
--User/Item based recommendation
+*Neighbourhood formation using Cosine Similarity formula
+*User/Item based recommendation
 
 
 Technology
