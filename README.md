@@ -1,7 +1,7 @@
-**User/Item based recommendation engine from scratch**\\
+#**User/Item based recommendation engine from scratch**
 
 
-Project status: Inprogress//
+##**Project status: Inprogress**
 
 
 Project Objective
