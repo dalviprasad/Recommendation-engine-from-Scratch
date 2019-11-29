@@ -1,4 +1,4 @@
-                                 **User/Item based recommendation engine from scratch**
+**User/Item based recommendation engine from scratch**
 
 
 **Project status: In progress**
