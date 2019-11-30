@@ -1,7 +1,7 @@
 # **User/Item based recommendation engine from scratch**
 
 
-## **Project status: In progress**
+**Project status: In progress**
 
 
 Project Objective: The purpose of this project was to understand what exactly goes behind the inbuilt functions which we use to build a model. So I have coded each and every step instead of using the build in function. This code can help anyone who wants to understand the theory behind the basic recommendation engine
